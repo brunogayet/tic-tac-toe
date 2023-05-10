@@ -1,0 +1,19 @@
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    /* grid-gap: 1px; */
+    width: 100vw;
+    min-height: 100vh;
+}
+.final-message {
+    width: 25%;
+    font-weight: bold;
+    position: absolute;
+    left: 2%;
+    top: 2%;
+    background-color: rgba(51, 51, 51, 0.4);
+    padding: 1rem;
+    border-radius: 10px;
+    
+    transform: translate(-5%, -5%);
+}

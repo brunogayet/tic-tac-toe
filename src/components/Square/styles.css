@@ -1,0 +1,10 @@
+.square {
+    font-size: 24vh;
+    font-weight: bold;
+    border: 1px solid #CCC;
+    height: calc(100vh / 3);
+}
+
+.winnerSquare {
+    background-color: #60FC61;
+}

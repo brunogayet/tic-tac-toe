@@ -1,4 +1,4 @@
-# tic-tac-toe React Project
+# Tic-tac-toe React Project
 
 An interactive tic-tac-toe game with React.
 This project was proposed by https://react.dev/ and use fundamental techniques to building any React app and fully understanding it will give you a deep understanding of React. 
